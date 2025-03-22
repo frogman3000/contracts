@@ -1,7 +1,9 @@
 # Contracts2.py
 
 ## Overview
-`contracts2.py` is a Python script designed to manage and process contracts efficiently. This script includes functionalities for creating, updating, and validating contract data.
+`contracts2.py` is a Python script designed to create synthetic contracts efficiently. This script includes functionalities for creating, updating, and validating contract data.  
+
+This was used to feed into Bedrock KB for testing RAG and performance.
 
 ## Features
 - Create new contracts
