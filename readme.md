@@ -5,6 +5,8 @@
 
 This was used to feed into Bedrock KB for testing RAG and performance.
 
+Example contracts are included.
+
 ## Features
 - Create new contracts
 - Update existing contracts
